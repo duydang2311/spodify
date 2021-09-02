@@ -11,7 +11,7 @@ import (
 
 const spotify_auth string = "https://accounts.spotify.com/authorize?response_type=code";
 const client_id string = "client_id=";
-const client_id_value string = "1b209fc3a05f43b89807fbe455e24aa7";
+const client_id_value string = "xxx";
 const redirect_uri string = "redirect_uri=";
 const redirect_uri_value string = "http://localhost:8080/";
 var tpl *template.Template
